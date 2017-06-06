@@ -6,3 +6,4 @@ applications:
   name: test
   host: 24g-bluemixnode-test
   disk_quota: 1024M
+
